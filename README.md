@@ -1,2 +1,7 @@
-# kafka
-A Docker Compose for Kafka
+
+
+## App Info
+
+Dockerized Kafka Server
+
+
